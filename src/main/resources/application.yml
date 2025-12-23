@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+model:
+  base-url: ${MODEL_URL:http://localhost:8000}
